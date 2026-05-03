@@ -2,6 +2,8 @@
 
 Welcome to the **AZ-800 Microsoft Windows Server Hybrid Core Infrastructure Administrator Ninja Training**! This repository is your comprehensive resource for preparing for the AZ-800 certification exam, Microsoft's foundational certification for Windows Server administrators.
 
+**Maintained by [Cloud360 Training](https://cloud360.co)** - Your trusted partner for Azure certification preparation.
+
 Following the Microsoft Ninja Training format, this guide takes you from core infrastructure fundamentals to advanced hybrid deployment and management through a carefully structured learning path.
 
 ## 🎯 Training Philosophy
@@ -72,4 +74,10 @@ Before starting AZ-800, you should have:
 * Familiarity with Azure services
 
 ---
+## 📚 About Cloud360 Training
+
+**[Cloud360 Training](https://cloud360.co)** provides comprehensive, hands-on training for Microsoft Azure certifications. Our expert instructors and curated learning paths help professionals achieve their certification goals.
+
+**Explore more at [https://cloud360.co](https://cloud360.co)**
+
 *Disclaimer: This repository is an independent study guide and is not officially affiliated with Microsoft. Always refer to the [official Microsoft AZ-800 exam page](https://learn.microsoft.com/en-us/credentials/certifications/exams/az-800/) for the most up-to-date information.*
